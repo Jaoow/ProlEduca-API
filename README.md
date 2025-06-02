@@ -56,7 +56,7 @@ Este módulo do frontend permite o gerenciamento completo das escolas cadastrada
 
 1.  **Clone o repositório** (se ainda não o fez):
     ```bash
-    git clone <url-do-seu-repositorio-frontend>
+    git clone <https://github.com/Jaoow/ProlEduca-API>
     cd school-page-main
     ```
 
