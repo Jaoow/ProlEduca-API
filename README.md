@@ -1,6 +1,6 @@
 # Gerenciamento de Escolas - ProlEduca Admin
 
-Este módulo do frontend permite o gerenciamento completo das escolas cadastradas na plataforma ProlEduca. Ele inclui funcionalidades para listar, visualizar, cadastrar e editar informações detalhadas de cada escola.
+Este módulo permite o gerenciamento completo das escolas cadastradas na plataforma ProlEduca. Ele inclui funcionalidades para listar, visualizar, cadastrar e editar informações detalhadas de cada escola.
 
 ## Funcionalidades
 
