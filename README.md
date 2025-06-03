@@ -1,4 +1,4 @@
-# Gerenciamento de Escolas - ProlEduca Admin
+# Gerenciamento de Escolas - ProlEduca 
 
 Este módulo permite o gerenciamento completo das escolas cadastradas na plataforma ProlEduca. Ele inclui funcionalidades para listar, visualizar, cadastrar e editar informações detalhadas de cada escola.
 
@@ -52,13 +52,20 @@ Este módulo permite o gerenciamento completo das escolas cadastradas na platafo
         VITE_API_BASE_URL=http://localhost:8080
         ```
 
-## Como Rodar (Frontend)
+## Como Rodar
 
 1.  **Clone o repositório** (se ainda não o fez):
     ```bash
     git clone <https://github.com/Jaoow/ProlEduca-API>
     cd school-page-main
     ```
+
+ 1.2. Clone o repositório (se ainda não o fez):
+   ```bash
+   git clone <https://github.com/m4lf0r/prolEducaFront>
+   cd school-page-main
+   ```
+
 
 2.  **Instale as dependências:**
     ```bash
